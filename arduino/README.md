@@ -1,2 +1,2 @@
 Lista de materiais
-* [Servo](arduino/libraries/EstudioHacker/examples/servo)
+* [Servo](libraries/EstudioHacker/examples/servo)
