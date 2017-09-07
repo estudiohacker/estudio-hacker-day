@@ -13,7 +13,7 @@ Ao fim do evento, os participantes apresentam suas criações e compartilham o c
   * [dojo](https://garoa.net.br/wiki/Coding_Dojo_com_Arduino)
   * Programação em blocos utilizando [mBlock](http://www.mblock.cc/) ou [Scratch](https://scratch.mit.edu/projects/editor/)
 * Intermediário a avançado
-  * [Lousa mágica](https://github.com/villares/sesc-24-de-maio) - desenho com potenciômetros (Processing + Arduino)
+  * [Lousa mágica](https://github.com/estudiohacker/lousa-magica) - desenho com potenciômetros (Processing + Arduino)
   * [Estação meteorológica](https://github.com/jaafreitas/weather-station) com sensor de temperatura, pressão, etc
   * Cubo de LED 3x3x3
   * Carrinho
