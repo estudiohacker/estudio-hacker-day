@@ -12,8 +12,10 @@ Ao fim do evento, os participantes apresentam suas criações e compartilham o c
   * [FATECINO](https://github.com/jaafreitas/fatecino)
   * [dojo](https://garoa.net.br/wiki/Coding_Dojo_com_Arduino)
   * Programação em blocos utilizando [mBlock](http://www.mblock.cc/) ou [Scratch](https://scratch.mit.edu/projects/editor/)
-* Intermediário a avançado
   * [Lousa mágica](https://github.com/estudiohacker/lousa-magica) - desenho com potenciômetros (Processing + Arduino)
+
+* Intermediário a avançado
+  * [Usar dados meteorológicos da Internet para alterar um desenho](https://github.com/estudiohacker/estudio-hacker-day/blob/master/processing/examples/EstudioHacker/examples/TemperaturaCidade/TemperaturaCidade.pde)
   * [Estação meteorológica](https://github.com/jaafreitas/weather-station) com sensor de temperatura, pressão, etc
   * Cubo de LED 3x3x3
   * Carrinho
