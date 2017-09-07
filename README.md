@@ -15,6 +15,7 @@ Ao fim do evento, os participantes apresentam suas criações e compartilham o c
 * Intermediário a avançado
   * [Lousa mágica](https://github.com/villares/sesc-24-de-maio) - desenho com potenciômetros (Processing + Arduino)
   * [Estação meteorológica](https://github.com/jaafreitas/weather-station) com sensor de temperatura, pressão, etc
+  * Cubo de LED 3x3x3
   * Carrinho
     * Controle remoto
       * IR
@@ -31,6 +32,7 @@ Ao fim do evento, os participantes apresentam suas criações e compartilham o c
     * [Guia avançado de reprogramação](https://learn.sparkfun.com/tutorials/makey-makey-advanced-guide)
   * Letreiro / Relógio utilizando a matriz de LED 8x8
   * Alarme residencial
+  * Automação residencial
   * P.O.V. utilizando o ATtiny85
   * Trena eletrônica com o sensor ultrasônico
   * Cofre eletrônico com módulo encoder e Scratch
