@@ -1,4 +1,5 @@
-<img align="right" src="assets/images/avatar.png">
+<img align="right" width=200px src="assets/images/avatar.png">
+
 # Estúdio Hacker Day
 
 O Estúdio Hacker Day é um esforço conjunto que reúne pessoas para debater idéias e desenvolver projetos.
