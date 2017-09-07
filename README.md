@@ -1,3 +1,4 @@
+<img align="right" src="assets/images/avatar.png">
 # Estúdio Hacker Day
 
 O Estúdio Hacker Day é um esforço conjunto que reúne pessoas para debater idéias e desenvolver projetos.
@@ -8,13 +9,14 @@ O evento começa com uma explicação da dinâmica do evento e uma apresentaçã
 Ao fim do evento, os participantes apresentam suas criações e compartilham o conhecimento adquirido durante o processo.
 
 ## Sugestão de projetos
-* Exploratórios
+
+* Introdutórios / exploratórios
   * [FATECINO](https://github.com/jaafreitas/fatecino)
   * [dojo](https://garoa.net.br/wiki/Coding_Dojo_com_Arduino)
   * Programação em blocos utilizando [mBlock](http://www.mblock.cc/) ou [Scratch](https://scratch.mit.edu/projects/editor/)
   * [Lousa mágica](https://github.com/estudiohacker/lousa-magica) - desenho com potenciômetros (Processing + Arduino)
 
-* Intermediário a avançado
+* Intermediários a avançados
   * [Usar dados meteorológicos da Internet para alterar um desenho](https://github.com/estudiohacker/estudio-hacker-day/blob/master/processing/examples/EstudioHacker/examples/TemperaturaCidade/TemperaturaCidade.pde)
   * [Estação meteorológica](https://github.com/jaafreitas/weather-station) com sensor de temperatura, pressão, etc
   * Cubo de LED 3x3x3
